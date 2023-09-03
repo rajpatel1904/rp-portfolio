@@ -31,7 +31,7 @@ function SocialLinks() {
           Mail <HiOutlineMail size={30} />
         </>
       ),
-      href: 'mailto:r_patel46@u.pacific.edu',
+      href: 'mailto:rajpatel86958@gmail.com',
     },
     {
       id: 4,
