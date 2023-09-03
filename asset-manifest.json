@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/rp-portfolio/static/css/main.3e7c7f79.css",
+    "main.js": "/rp-portfolio/static/js/main.e0ed5ddf.js",
+    "static/media/movie.png": "/rp-portfolio/static/media/movie.8b8d93d8cfbca4fd0f50.png",
+    "static/media/self.png": "/rp-portfolio/static/media/self.3ce1b5bfac36cacbc128.png",
+    "static/media/speech_to_text.jpg": "/rp-portfolio/static/media/speech_to_text.a132b0b8476686d2ec3e.jpg",
+    "index.html": "/rp-portfolio/index.html",
+    "main.3e7c7f79.css.map": "/rp-portfolio/static/css/main.3e7c7f79.css.map",
+    "main.e0ed5ddf.js.map": "/rp-portfolio/static/js/main.e0ed5ddf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3e7c7f79.css",
+    "static/js/main.e0ed5ddf.js"
+  ]
+}
